@@ -3,7 +3,24 @@
 import pandas as pd
 from Func import excel_beautiful
 
+
+def spam(div):
+    try:
+        return 42 / div
+    except ZeroDivisionError:
+        print("error")
+
+
+spam(0)
+
+print(spam(0))
+exit()
+
 # desk path：/Users/super/Desktop/
+
+
+print("a" / "b")
+exit()
 
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
