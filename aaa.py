@@ -4,6 +4,11 @@ import pandas as pd
 from Func import excel_beautiful
 
 
+print("方敏笑在哪？")
+
+exit()
+
+
 def spam(div):
     try:
         return 42 / div
