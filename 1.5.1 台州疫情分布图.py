@@ -1,16 +1,12 @@
 # coding:utf-8
 # author:stay5sec
 
-import pandas as pd
-
-pd.set_option('expand_frame_repr', False)
-pd.set_option('display.max_rows', 1000)
-
 str = "温岭市30例、路桥区12例、临海市5例、黄岩区14例、三门县6例、天台县5例、椒江区6例、仙居县3例"
 list1 = str.split("、")
 
 # print(list1)
 # exit()
+
 list2 = list(map(lambda x: x[:3], list1))
 list3 = list(map(lambda x: int(x[3:].replace("例", "")) * 10, list1))
 
@@ -44,3 +40,5 @@ def map_guangdong() -> Map:
 
 
 Page().add(*[fn() for fn, _ in C.charts]).render("render2.html")
+
+

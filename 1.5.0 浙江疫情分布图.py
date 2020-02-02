@@ -29,7 +29,6 @@ from pyecharts.faker import Collector
 
 C = Collector()
 
-
 @C.funcs
 def map_guangdong() -> Map:
     c = (
@@ -41,6 +40,5 @@ def map_guangdong() -> Map:
         )
     )
     return c
-
 
 Page().add(*[fn() for fn, _ in C.charts]).render("render1.html")
