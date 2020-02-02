@@ -1,6 +1,11 @@
 # coding:utf-8
 # author:stay5sec
 
+# pip install pyecharts
+# pip install echarts-china-provinces-pypkg |(730KB) 中国省级地图: 23 个省，5 个自治区
+# pip install echarts-china-cities-pypkg |(3.8MB) 中国市级地图:370 个中国城市
+# pip install echarts-china-counties-pypkg |(4.1MB) 中国县区级地图:2882 个中国县·区
+
 import pandas as pd
 
 pd.set_option('expand_frame_repr', False)
@@ -29,7 +34,7 @@ C = Collector()
 def map_guangdong() -> Map:
     c = (
         Map()
-            .add("", data1, "金华")
+            .add("", data1, "浙江")
             .set_global_opts(
             title_opts=opts.TitleOpts(title="浙江疫情地图"),
             visualmap_opts=opts.VisualMapOpts(),

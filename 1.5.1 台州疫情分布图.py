@@ -6,18 +6,21 @@ import pandas as pd
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
 
-str = "婺城区1例、金东区3例、东阳市10例、义乌市12例、永康市5例、浦江县3例"
+str = "温岭市30例、路桥区12例、临海市5例、黄岩区14例、三门县6例、天台县5例、椒江区6例、仙居县3例"
 list1 = str.split("、")
 
+# print(list1)
+# exit()
 list2 = list(map(lambda x: x[:3], list1))
-list3 = list(map(lambda x: int(x[3:].replace("例", ""))*10, list1))
+list3 = list(map(lambda x: int(x[3:].replace("例", "")) * 10, list1))
 
 # print(list2)
+# print(list3)
 # exit()
 
 data1 = [list(z) for z in zip(list2, list3)]
 
-print(data1)
+# print(data1)
 # exit()
 
 from pyecharts import options as opts
@@ -31,13 +34,13 @@ C = Collector()
 def map_guangdong() -> Map:
     c = (
         Map()
-            .add("", data1, "金华")
+            .add("", data1, "台州")
             .set_global_opts(
-            title_opts=opts.TitleOpts(title="金华疫情地图"),
+            title_opts=opts.TitleOpts(title="台州疫情地图"),
             visualmap_opts=opts.VisualMapOpts(),
         )
     )
     return c
 
 
-Page().add(*[fn() for fn, _ in C.charts]).render("render1.html")
+Page().add(*[fn() for fn, _ in C.charts]).render("render2.html")
