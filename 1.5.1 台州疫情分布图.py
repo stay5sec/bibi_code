@@ -8,7 +8,7 @@ list1 = str.split("、")
 # exit()
 
 list2 = list(map(lambda x: x[:3], list1))
-list3 = list(map(lambda x: int(x[3:].replace("例", "")) * 10, list1))
+list3 = list(map(lambda x: int(x[3:].replace("例", "")), list1))
 
 # print(list2)
 # print(list3)
