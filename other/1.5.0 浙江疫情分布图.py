@@ -11,16 +11,18 @@ import pandas as pd
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
 
-data = pd.read_excel("/Users/super/Desktop/浙江疫情分布.xlsx")
+data = pd.read_excel("/Users/super/Desktop/电脑/Material/哔哩/r5/浙江疫情分布.xlsx")
 
 data["city1"] = data["city"] + "市"
 
-# print(data)
+data["count"]=data["count"]*0.5
+
+print(data)
 # exit()
 
 data1 = [list(z) for z in zip(data["city1"], data["count"])]
 
-# print(data1)
+print(data1)
 # exit()
 
 from pyecharts import options as opts
