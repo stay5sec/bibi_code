@@ -11,11 +11,13 @@ import pandas as pd
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
 
-data = pd.read_excel("/Users/super/Desktop/电脑/Material/哔哩/1.4浙江疫情分析/浙江疫情分布.xlsx")
+data = pd.read_excel("/Users/super/Desktop/电脑/Material/哔哩/1.4浙江疫情分析/重庆疫情分布.xlsx")
 
-data["city1"] = data["city"] + "市"
+data["city1"] = data["city"]
 
-data["count"]=data["count"]*0.5
+
+
+data["count"]=data["count"]*2
 
 print(data)
 # exit()
@@ -35,12 +37,12 @@ C = Collector()
 def map_guangdong() -> Map:
     c = (
         Map()
-            .add("", data1, "浙江")
+            .add("", data1, "重庆")
             .set_global_opts(
-            title_opts=opts.TitleOpts(title="浙江疫情分布图"),
+            title_opts=opts.TitleOpts(title="重庆疫情地图"),
             visualmap_opts=opts.VisualMapOpts(),
         )
     )
     return c
 
-Page().add(*[fn() for fn, _ in C.charts]).render("render1.html")
+Page().add(*[fn() for fn, _ in C.charts]).render("render_重庆.html")

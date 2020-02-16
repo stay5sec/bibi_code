@@ -2,7 +2,7 @@
 # author:stay5sec
 import pandas as pd
 import datetime
-
+from collections import *
 # desk path：/Users/super/Desktop/
 
 pd.set_option('expand_frame_repr', False)
@@ -12,4 +12,6 @@ a=["a1","a2"]
 b=["b1","b2"]
 
 a.extend(b)
+
+a=list
 
