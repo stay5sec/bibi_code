@@ -14,7 +14,7 @@ def add(a):
     return a
 
 
-dis.dis(add)
+print(dis.dis(add))
 
 # 以上为函数变成字节码的流程：为了其安全python给这个流程加个一个锁
 
@@ -26,9 +26,6 @@ dis.dis(add)
 
 
 import threading
-
-total = 0
-
 
 def add():
     global total
@@ -50,7 +47,7 @@ th2.start()
 th1.join()
 th2.join()
 
-total
+print(total)
 
 
 # 这个total在多次运行之后的值是不固定的，也不是为0
