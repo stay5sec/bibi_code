@@ -1,7 +1,16 @@
 # coding:utf-8
 # author:stay5sec
 
-# n = "a"
+score = 59
+
+mark = "及格" if score >=60 else "不及格"
+
+print(mark)
+exit()
+
+n = "a"
+print(n)
+
 #
 # n1="abc"
 #
@@ -13,14 +22,3 @@
 a, b, c = 1, 2, 3
 
 print(a, b, c)
-
-'''String name="爱慕课";
-        char sex='男';
-        int num=18;
-        double price=120.5;
-        boolean isOK=true;
-		System.out.println(name);
-		System.out.println(sex);
-		System.out.println(num);
-		System.out.println(price);
-		System.out.println(isOK);'''

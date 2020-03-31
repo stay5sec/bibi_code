@@ -11,7 +11,10 @@ pd.set_option('display.max_rows', 1000)
 from collections import UserList
 
 
-list1=[1,2,3]
+list1=[[1,2,3],[2,3,4]]
+df=pd.DataFrame(list1)
+print(len(df))
+exit()
 
 print(list1.pop())
 print(list1)

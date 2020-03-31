@@ -22,6 +22,10 @@ headers = {
 
 # 提取网页
 txt = requests.get(url, headers=headers).text
+
+print(txt)
+
+exit()
 html = etree.HTML(txt)
 
 # print(txt)

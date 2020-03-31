@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/contrast/1.0 关键字.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/contrast/1.1 变量.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.4 使用Python操作ES.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.2 豆瓣T250电影.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.2 豆瓣T250电影.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TTTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/TTTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/contrast/1.1 变量.py" beforeDir="false" afterPath="$PROJECT_DIR$/contrast/1.1 变量.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,23 +16,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/contrast/1.0 关键字.py">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/2.4 使用Python操作ES.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            <state relative-caret-position="-198">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <element signature="e#33#52#0" expanded="true" />
+                <marker date="1585660792918" expanded="true" signature="648:657" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/contrast/1.1 变量.py">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Func.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <marker date="1584187285597" expanded="true" signature="37:56" ph="..." />
-              </folding>
+            <state relative-caret-position="95">
+              <caret line="5" column="38" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="38" />
             </state>
           </provider>
         </entry>
@@ -60,9 +63,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/tar_down/1.5 疫情分布图.py" />
-        <option value="$PROJECT_DIR$/tar_down/1.5 疫情分布图3.py" />
-        <option value="$PROJECT_DIR$/1.5.2 台州疫情分布图.py" />
         <option value="$PROJECT_DIR$/1.5.0 浙江疫情分布图.py" />
         <option value="$PROJECT_DIR$/1.5.1 台州疫情分布图.py" />
         <option value="$PROJECT_DIR$/TTT.py" />
@@ -99,7 +99,6 @@
         <option value="$PROJECT_DIR$/Record/多线程/4.9 多进程编程.py" />
         <option value="$PROJECT_DIR$/1.7 未来薪资对比.py" />
         <option value="$PROJECT_DIR$/tiler/conf.py" />
-        <option value="$PROJECT_DIR$/TTTT.py" />
         <option value="$PROJECT_DIR$/1.9 乘法计算.py" />
         <option value="$PROJECT_DIR$/2.0 批量导出word.py" />
         <option value="$PROJECT_DIR$/2.1 获取视频的音频.py" />
@@ -110,12 +109,15 @@
         <option value="$PROJECT_DIR$/2.3 美化pycharm打印结果.py" />
         <option value="$PROJECT_DIR$/a.py" />
         <option value="$PROJECT_DIR$/contrast/1.0 关键字.py" />
+        <option value="$PROJECT_DIR$/1.2 豆瓣T250电影.py" />
+        <option value="$PROJECT_DIR$/2.4 疫情数据获取.py" />
         <option value="$PROJECT_DIR$/contrast/1.1 变量.py" />
+        <option value="$PROJECT_DIR$/TTTT.py" />
+        <option value="$PROJECT_DIR$/2.4 使用Python操作ES.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-1" />
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="877" />
@@ -128,6 +130,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -135,23 +138,17 @@
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bili" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="contrast" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/contrast" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.editor" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -181,28 +178,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.1 变量">
-    <configuration name="1.0 关键字" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/contrast" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/contrast/1.0 关键字.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.2.2 文件自动归档">
     <configuration name="1.1 变量" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -245,7 +221,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.3 美化pycharm打印结果" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.4 使用Python操作ES" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -257,7 +233,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.3 美化pycharm打印结果.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4 使用Python操作ES.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -266,7 +242,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="a" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.4 疫情数据获取" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -278,7 +254,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/a.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.4 疫情数据获取.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="TTTT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TTTT.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -289,11 +286,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.1 变量" />
-        <item itemvalue="Python.1.0 关键字" />
-        <item itemvalue="Python.a" />
         <item itemvalue="Python.2.2 文件自动归档" />
-        <item itemvalue="Python.2.3 美化pycharm打印结果" />
+        <item itemvalue="Python.2.4 使用Python操作ES" />
+        <item itemvalue="Python.TTTT" />
+        <item itemvalue="Python.1.1 变量" />
+        <item itemvalue="Python.2.4 疫情数据获取" />
       </list>
     </recent_temporary>
   </component>
@@ -320,14 +317,14 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="877" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="877" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.21353066" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.21353066" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3745223" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3745223" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -342,27 +339,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/other/1.5.0 浙江疫情分布图.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="31" selection-start-line="17" selection-start-column="31" selection-end-line="17" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/2and3/socket.pyi">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="253">
-          <caret line="524" column="8" selection-start-line="524" selection-start-column="8" selection-end-line="524" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Record/第三章/3.5.1 socket实现双向通信_client.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" lean-forward="true" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Record/第三章/3.5.0 socket实现双向通信.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="245">
@@ -412,16 +388,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="110">
           <caret line="15" column="4" selection-start-line="15" selection-start-column="4" selection-end-line="15" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.2 豆瓣T250电影.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="87">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="7" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="e#34#49#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -594,27 +560,10 @@
     <entry file="file://$PROJECT_DIR$/tiler/requirements.txt" />
     <entry file="file://$PROJECT_DIR$/tiler/tiler.py" />
     <entry file="file://$PROJECT_DIR$/tiler/conf.py" />
-    <entry file="file://$PROJECT_DIR$/Func.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-296">
-          <caret line="5" column="38" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.8 画爱心conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
           <caret line="9" column="29" lean-forward="true" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TTTT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#33#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -650,13 +599,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.3 美化pycharm打印结果.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="148">
-          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -669,6 +611,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/a.py" />
     <entry file="file://$PROJECT_DIR$/contrast/okex3_multi_threads.py" />
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="76">
+            <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4 疫情数据获取.py" />
+    <entry file="file://$PROJECT_DIR$/1.2 豆瓣T250电影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contrast/1.0 关键字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -676,12 +639,44 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/TTTT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="15" column="14" selection-start-line="15" selection-start-column="14" selection-end-line="15" selection-end-column="14" />
+          <folding>
+            <element signature="e#33#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/contrast/1.1 变量.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="133">
           <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.3 美化pycharm打印结果.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="74" lean-forward="true" selection-start-line="74" selection-end-line="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Func.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="38" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4 使用Python操作ES.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-198">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
           <folding>
-            <marker date="1584187285597" expanded="true" signature="37:56" ph="..." />
+            <element signature="e#33#52#0" expanded="true" />
+            <marker date="1585660792918" expanded="true" signature="648:657" ph="..." />
           </folding>
         </state>
       </provider>
