@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.5 数据写入Mysql.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.6 Python操作Mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.4 使用Python操作ES.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.4 使用Python操作ES.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/TTTT.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.2 文件自动归档.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.2 文件自动归档.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -17,10 +15,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
+        <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="263">
-              <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+            <state relative-caret-position="562">
+              <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+              <folding>
+                <element signature="e#31#44#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -87,7 +88,6 @@
         <option value="$PROJECT_DIR$/2.0 批量导出word.py" />
         <option value="$PROJECT_DIR$/2.1 获取视频的音频.py" />
         <option value="$PROJECT_DIR$/2.1 提取视频的音频.py" />
-        <option value="$PROJECT_DIR$/2.2 文件自动归档.py" />
         <option value="$PROJECT_DIR$/2.3 又更新了一个视频.py" />
         <option value="$USER_HOME$/anaconda3/lib/python3.7/site-packages/prettytable.py" />
         <option value="$PROJECT_DIR$/2.3 美化pycharm打印结果.py" />
@@ -101,6 +101,7 @@
         <option value="$PROJECT_DIR$/2.5 数据写入Mysql.py" />
         <option value="$PROJECT_DIR$/TTTT.py" />
         <option value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
+        <option value="$PROJECT_DIR$/2.2 文件自动归档.py" />
       </list>
     </option>
   </component>
@@ -117,6 +118,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -128,7 +130,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -138,19 +139,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tiler/me" />
+      <recent name="$PROJECT_DIR$/Record" />
+      <recent name="$PROJECT_DIR$/Record/第三章" />
+      <recent name="$PROJECT_DIR$/Record/第二章" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/contrast" />
       <recent name="$PROJECT_DIR$/tiler/me" />
       <recent name="$PROJECT_DIR$/Record/多线程" />
       <recent name="$PROJECT_DIR$/other" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/tiler/me" />
-      <recent name="$PROJECT_DIR$/Record" />
-      <recent name="$PROJECT_DIR$/Record/第三章" />
-      <recent name="$PROJECT_DIR$/Record/第二章" />
-      <recent name="$PROJECT_DIR$/Record/第一章" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -165,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.6 Python操作Mysql">
+  <component name="RunManager" selected="Python.2.2 文件自动归档">
     <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -273,8 +274,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2.6 Python操作Mysql" />
         <item itemvalue="Python.2.2 文件自动归档" />
+        <item itemvalue="Python.2.6 Python操作Mysql" />
         <item itemvalue="Python.2.5 使用Python操作Mysql" />
         <item itemvalue="Python.2.4 使用Python操作ES" />
         <item itemvalue="Python.TTTT" />
@@ -307,18 +308,18 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.19027483" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.24594785" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.43821657" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29681528" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.35286623" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4254777" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -327,13 +328,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Record/第三章/3.5.3 client版2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" lean-forward="true" selection-start-line="31" selection-end-line="31" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Record/第三章/3.5.4 server多个客户端.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="97">
@@ -548,16 +542,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.0 批量导出word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="75" column="35" selection-start-line="75" selection-start-column="14" selection-end-line="75" selection-end-column="35" />
-          <folding>
-            <element signature="e#30#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.1 提取视频的音频.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -586,16 +570,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/2.4 疫情数据获取.py" />
-    <entry file="file://$PROJECT_DIR$/1.2 豆瓣T250电影.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="8" column="41" selection-start-line="8" selection-start-column="41" selection-end-line="8" selection-end-column="41" />
-          <folding>
-            <element signature="e#34#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contrast/1.0 关键字.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
@@ -636,16 +610,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="14" column="41" selection-start-line="14" selection-start-column="41" selection-end-line="14" selection-end-column="41" />
-          <folding>
-            <element signature="e#31#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.5 数据写入Mysql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="171">
@@ -663,10 +627,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.0 批量导出word.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
+          <folding>
+            <element signature="e#30#55#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="52" column="9" lean-forward="true" selection-start-line="52" selection-start-column="9" selection-end-line="52" selection-end-column="9" />
+        <state relative-caret-position="472">
+          <caret line="50" column="118" selection-start-line="50" selection-start-column="11" selection-end-line="50" selection-end-column="118" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.2 豆瓣T250电影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="58" lean-forward="true" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="562">
+          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+          <folding>
+            <element signature="e#31#44#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

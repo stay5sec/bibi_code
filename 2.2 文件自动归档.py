@@ -42,16 +42,21 @@ py_path = "/Users/super/python/bili/"
 # 同理
 py_files = os.listdir(py_path)
 
-py_files = list(filter(lambda x: ".py" in x and len(x) > 11, py_files))
+py_files = list(filter(lambda x: (".py" in x or "ipynb" in x) and len(x) > 11, py_files))
 
 # print(py_files)
 # exit()
 
 # 提取文件名中最大的数值
-max_py = max(list(map(lambda x: float(x.split(" ")[0]), py_files)))
+max_py = max(list(map(lambda x: x.split(" ")[0], py_files)))
 
 # 提取py文件名称
-name = list(filter(lambda x: str(max_py) in x, py_files))[0][:-3]
+name = list(filter(lambda x: str(max_py) in x, py_files))[0]
+
+if "ipynb" in name:
+    name = name[:-6]
+else:
+    name = name[:-3]
 
 # print(name)
 # exit()
@@ -64,7 +69,7 @@ tar_path_new = os.path.join(tar_path, name)
 
 
 # ==================第五步：判断是否执行过操作===========================
-if max_py <= max_tar:
+if float(max_py) <= max_tar:
     print("\n文件已移动过,请确认：\n")
     # 如果已经复制过文件了，就打印出来看看
     print(os.listdir(tar_path_new))
