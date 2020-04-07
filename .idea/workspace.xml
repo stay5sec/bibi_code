@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.2 文件自动归档.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.2 文件自动归档.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,14 +13,14 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+        <entry file="file://$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="562">
-              <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+            <state relative-caret-position="107">
+              <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
               <folding>
-                <element signature="e#31#44#0" expanded="true" />
+                <element signature="e#30#57#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -51,7 +51,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/aaa.py" />
         <option value="$PROJECT_DIR$/README.md" />
         <option value="$PROJECT_DIR$/1.5 重组数据格式.py" />
         <option value="$PROJECT_DIR$/other/1.5.2 重庆疫情分布图.py" />
@@ -102,6 +101,7 @@
         <option value="$PROJECT_DIR$/TTTT.py" />
         <option value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
         <option value="$PROJECT_DIR$/2.2 文件自动归档.py" />
+        <option value="$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py" />
       </list>
     </option>
   </component>
@@ -118,7 +118,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,6 +129,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -139,19 +139,19 @@
     <property name="settings.editor.selected.configurable" value="configurable.group.project" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/tiler/me" />
-      <recent name="$PROJECT_DIR$/Record" />
-      <recent name="$PROJECT_DIR$/Record/第三章" />
-      <recent name="$PROJECT_DIR$/Record/第二章" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/contrast" />
       <recent name="$PROJECT_DIR$/tiler/me" />
       <recent name="$PROJECT_DIR$/Record/多线程" />
       <recent name="$PROJECT_DIR$/other" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/tiler/me" />
+      <recent name="$PROJECT_DIR$/Record" />
+      <recent name="$PROJECT_DIR$/Record/第三章" />
+      <recent name="$PROJECT_DIR$/Record/第二章" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -166,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2.2 文件自动归档">
+  <component name="RunManager" selected="Python.2.8 抓取GitHub优质Python项目Plus">
     <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -251,7 +251,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TTTT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.8 抓取GitHub优质Python项目Plus" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -263,7 +263,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TTTT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -274,11 +274,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.2.8 抓取GitHub优质Python项目Plus" />
         <item itemvalue="Python.2.2 文件自动归档" />
         <item itemvalue="Python.2.6 Python操作Mysql" />
         <item itemvalue="Python.2.5 使用Python操作Mysql" />
         <item itemvalue="Python.2.4 使用Python操作ES" />
-        <item itemvalue="Python.TTTT" />
       </list>
     </recent_temporary>
   </component>
@@ -308,18 +308,18 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.24594785" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.24594785" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.29681528" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3210191" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.3299363" />
       <window_info anchor="bottom" id="Version Control" order="7" weight="0.3299363" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.4254777" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.355414" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Python Console" order="10" weight="0.3299363" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
@@ -328,13 +328,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Record/第三章/3.5.4 server多个客户端.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="97">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.6 快速统计一行数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="529">
@@ -654,15 +647,27 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="562">
-          <caret line="55" column="19" lean-forward="true" selection-start-line="55" selection-start-column="19" selection-end-line="55" selection-end-column="19" />
+        <state relative-caret-position="-89">
+          <caret line="35" column="22" lean-forward="true" selection-start-line="35" selection-start-column="22" selection-end-line="35" selection-end-column="22" />
           <folding>
             <element signature="e#31#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.7 抓取GitHub优质Python项目.ipynb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-385" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="107">
+          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
+          <folding>
+            <element signature="e#30#57#0" expanded="true" />
           </folding>
         </state>
       </provider>
