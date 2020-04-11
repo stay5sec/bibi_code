@@ -25,6 +25,12 @@ df["项目2"] = df["项目"].apply(lambda x: pattern.findall(x))
 # print(df["项目2"].sample(5))
 # exit()
 
+# print(type(df.loc[65,"项目2"]))
+# print(df.loc[65,"项目2"])
+# print(''.join(df.loc[65,"项目2"]))
+# print(list(jieba.cut(''.join(df.loc[65,"项目2"]))))
+# exit()
+
 # 合并list、切割文本、再次合并list
 df["项目2"] = df["项目2"].apply(lambda x: " ".join(jieba.cut("".join(x))))
 # print(df["项目2"].sample(5))
@@ -32,6 +38,9 @@ df["项目2"] = df["项目2"].apply(lambda x: " ".join(jieba.cut("".join(x))))
 
 # 合并全部文字
 content = " ".join(df["项目2"])
+
+# print(content)
+# exit()
 
 # 添加停用此
 stopwords = set(STOPWORDS)
@@ -41,6 +50,7 @@ for i in {"一个", "可以","通过","项目","使用","实现"}:
 
 # 实例化对象
 wc = WordCloud(
+    # win和mac导入不一致
     font_path="/System/Library/fonts/PingFang.ttc",
     max_words=100,
     width=2000,
@@ -50,6 +60,8 @@ wc = WordCloud(
 
 # 生成数据
 wordcloud = wc.generate(content)
+
+print(type(wordcloud))
 
 # 保存数据
 wordcloud.to_file("/Users/super/Desktop/wc_{}.jpg".format("python"))

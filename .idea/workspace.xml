@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.0 优质项目词云统计.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.0 一份假数据.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.0 一份假数据.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.1 调整Excel格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.1 调整Excel格式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.2 豆瓣T250电影.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.2 豆瓣T250电影.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.3 豆瓣T250电影plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.3 豆瓣T250电影plus.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.4 豆瓣T250数据分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.4 豆瓣T250数据分析.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.5 重组数据格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.5 重组数据格式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.6 快速统计一行数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.6 快速统计一行数据.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.7 未来薪资对比.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.7 未来薪资对比.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.8 画爱心conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.8 画爱心conf.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.9 乘法计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/1.9 乘法计算.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.0 批量导出word.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/2.0 批量导出word.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.1 提取视频的音频.py" beforeDir="false" afterPath="$PROJECT_DIR$/course1/2.1 提取视频的音频.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/3.0 优质项目词云统计.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.0 优质项目词云统计.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,12 +14,12 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/course1/1.6 快速统计一行数据.py">
+        <entry file="file://$PROJECT_DIR$/3.0 优质项目词云统计.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
+            <state relative-caret-position="145">
+              <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
               <folding>
-                <element signature="e#33#52#0" expanded="true" />
+                <element signature="e#34#76#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -136,11 +124,6 @@
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bili" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="course1" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -182,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.0 优质项目词云统计">
+  <component name="RunManager" selected="Python.2.2 文件自动归档">
     <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -290,8 +273,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.0 优质项目词云统计" />
         <item itemvalue="Python.2.2 文件自动归档" />
+        <item itemvalue="Python.3.0 优质项目词云统计" />
         <item itemvalue="Python.2.8 抓取GitHub优质Python项目Plus" />
         <item itemvalue="Python.2.6 Python操作Mysql" />
         <item itemvalue="Python.2.5 使用Python操作Mysql" />
@@ -324,12 +307,12 @@
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.24594785" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.24594785" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3210191" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3210191" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -647,16 +630,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-345">
-          <caret line="42" column="30" lean-forward="true" selection-start-line="42" selection-start-column="30" selection-end-line="42" selection-end-column="30" />
-          <folding>
-            <element signature="e#31#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/PIL/ImageFont.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -671,19 +644,32 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.0 优质项目词云统计.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="700">
-          <caret line="45" column="15" selection-start-line="45" selection-start-column="15" selection-end-line="45" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course1/1.6 快速统计一行数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding>
             <element signature="e#33#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="54" lean-forward="true" selection-start-line="54" selection-end-line="54" />
+          <folding>
+            <element signature="e#31#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.0 优质项目词云统计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="145">
+          <caret line="56" column="16" lean-forward="true" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+          <folding>
+            <element signature="e#34#76#0" expanded="true" />
           </folding>
         </state>
       </provider>
