@@ -12,7 +12,7 @@ warnings.filterwarnings("ignore")
 
 from sqlalchemy import create_engine
 
-engine = create_engine('mysql+pymysql://root:123456@localhost:3306/es?charset=utf8')
+engine = create_engine('mysql+pymysql://root:root@localhost:3306/es?charset=utf8')
 
 # # sql查询
 # sql = '''select * from es_data2;'''
@@ -24,7 +24,7 @@ engine = create_engine('mysql+pymysql://root:123456@localhost:3306/es?charset=ut
 # exit()
 
 # # 只查询5行
-# sql = '''select * from es_data2 limit 5;'''
+sql = '''select * from es_data limit 5;'''
 # sql = '''select * from es_data2 limit 5,5;'''
 
 # # WHERE 子句
@@ -51,7 +51,7 @@ engine = create_engine('mysql+pymysql://root:123456@localhost:3306/es?charset=ut
 # sql = '''select DestCountry,DestWeather,count(*) as c from es_data2 group by DestCountry,DestWeather having c > 25;'''
 
 # # 正则表达式
-sql = '''select * from es_data2 where OriginCityName regexp 'New+';'''
+# sql = '''select * from es_data2 where OriginCityName regexp 'New+';'''
 
 df = pd.read_sql_query(sql, engine)
 

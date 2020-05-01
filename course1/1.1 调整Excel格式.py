@@ -33,6 +33,8 @@ for m in range(1, max_row + 1):
     for n in range(97, 97 + max_col):
         sheet2[chr(n) + str(m)] = sheet1[chr(n) + str(m)].value
 
+        # "A1","B1","C1"
+
 wb2.save("/Users/super/Desktop/整理过的假数据.xlsx")
 
 wb1.close()
