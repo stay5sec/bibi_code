@@ -2,80 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.5 Python操作MongoDB.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python入门/1.2 判断if.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python入门/1.3 循环结构.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python入门/1.4 Python函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/3.6 清理房价文本数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.idea/Record.iml" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.idea/Record.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.0 一切皆对象-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.0 一切皆对象-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.1 魔法函数-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.1 魔法函数-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.2 鸭子类型-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.2 鸭子类型-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.3 抽象基类-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.3 抽象基类-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.4 类变量和实例变量-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.4 类变量和实例变量-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.5 类属性和实例属性-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.5 类属性和实例属性-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.6 数据封装、私有属性和自省机制-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.6 数据封装、私有属性和自省机制-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.7 super函数真的是调用父类么-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.7 super函数真的是调用父类么-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/1.8 python中的with语句-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/1.8 python中的with语句-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.0 序列类型-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.0 序列类型-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.1 创建可切片对象-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.1 创建可切片对象-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.2 tuple 和 namedtuple-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.2 tuple 和 namedtuple-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.3 defaultdict（以及一些拓展）的功能-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.3 defaultdict（以及一些拓展）的功能-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.4 bisect维护排序序列-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.4 bisect维护排序序列-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.5 深入dict-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.5 深入dict-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/2.6 深入set-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/2.6 深入set-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/3.1 python中的变量到底是什么-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/3.1 python中的变量到底是什么-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/3.2 迭代协议和迭代器-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/3.2 迭代协议和迭代器-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/3.3 生成器-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/3.3 生成器-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/.ipynb_checkpoints/3.4 生成器的原理和运用-checkpoint.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/.ipynb_checkpoints/3.4 生成器的原理和运用-checkpoint.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/b.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/三者关系图.png" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/三者关系图.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.0 多线程概念(GIL).py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.0 多线程概念(GIL).py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.1 多线程编程 Thread.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.1 多线程编程 Thread.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.2 线程间的通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.2 线程间的通信.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.3 通过queue进行线程间同步.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.3 通过queue进行线程间同步.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.4 线程同步.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.4 线程同步.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.5 条件变量线程同步.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.5 条件变量线程同步.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.6 控制进入数量锁semaphore.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.6 控制进入数量锁semaphore.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.7 线程池.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.7 线程池.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.8 多线程和多进程.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.8 多线程和多进程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/4.9 多进程编程.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/4.9 多进程编程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/多线程/5.0 进程间通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/多线程/5.0 进程间通信.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.0 一切皆对象.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.0 一切皆对象.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.1 魔法函数.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.1 魔法函数.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.2 鸭子类型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.2 鸭子类型.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.3 抽象基类.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.3 抽象基类.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.4 类变量和实例变量.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.4 类变量和实例变量.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.5 类属性和实例属性.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.5 类属性和实例属性.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.6 数据封装、私有属性和自省机制.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.6 数据封装、私有属性和自省机制.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.7 super函数真的是调用父类么.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.7 super函数真的是调用父类么.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第一章/1.8 python中的with语句.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第一章/1.8 python中的with语句.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.1 python中的变量到底是什么.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.1 python中的变量到底是什么.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.2 迭代协议和迭代器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.2 迭代协议和迭代器.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.3 生成器.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.3 生成器.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.4 生成器的原理和运用.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.4 生成器的原理和运用.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.0 socket实现双向通信.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.0 socket实现双向通信.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.1 socket实现双向通信_client.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.1 socket实现双向通信_client.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.2 server版.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.2 server版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.3 client版.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.3 client版.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.3 client版2.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.3 client版2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.5.4 server多个客户端.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.5.4 server多个客户端.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第三章/3.6 socket_http请求.py" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第三章/3.6 socket_http请求.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.0 序列类型.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.0 序列类型.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.1 创建可切片对象.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.1 创建可切片对象.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.2 tuple 和 namedtuple.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.2 tuple 和 namedtuple.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.3 defaultdict（以及一些拓展）的功能.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.3 defaultdict（以及一些拓展）的功能.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.4 bisect维护排序序列.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.4 bisect维护排序序列.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.5 深入dict.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.5 深入dict.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Record/第二章/2.6 深入set.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/other/Record/第二章/2.6 深入set.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contrast/0.0 什么是编程.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python入门/0.0 什么是编程.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contrast/1.0 初识Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python入门/1.0 初识Python.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contrast/1.1 变量和变量值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python入门/1.1 变量和变量值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/contrast/TTTTTT.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.6 Python操作Mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.6 Python操作Mysql.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,12 +13,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Python入门/1.4 Python函数.py">
+        <entry file="file://$PROJECT_DIR$/3.6 清理房价文本数据.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="256">
-              <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+            <state relative-caret-position="194">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
             </state>
           </provider>
         </entry>
@@ -121,7 +50,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Record/多线程/4.2 线程间的通信.py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.3 通过queue进行线程间同步.py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.0 多线程概念(GIL).py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.4 线程同步.py" />
@@ -163,7 +91,6 @@
         <option value="$PROJECT_DIR$/3.3 Python操作Redis.py" />
         <option value="$PROJECT_DIR$/TTTT.py" />
         <option value="$PROJECT_DIR$/2.5 数据写入Mysql.py" />
-        <option value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
         <option value="$PROJECT_DIR$/数据写入MongoDB.py" />
         <option value="$PROJECT_DIR$/3.4 数据写入MongoDB.py" />
         <option value="$PROJECT_DIR$/3.5 Python操作MongoDB.py" />
@@ -172,6 +99,8 @@
         <option value="$PROJECT_DIR$/Python入门/1.2 判断if.py" />
         <option value="$PROJECT_DIR$/Python入门/1.3 循环结构.py" />
         <option value="$PROJECT_DIR$/Python入门/1.4 Python函数.py" />
+        <option value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
+        <option value="$PROJECT_DIR$/3.6 清理房价文本数据.py" />
       </list>
     </option>
   </component>
@@ -188,7 +117,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -196,15 +124,11 @@
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bili" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="Python入门" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -241,7 +165,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.4 Python函数">
+  <component name="RunManager" selected="Python.3.6 清理房价文本数据">
     <configuration name="1.2 判断if" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -305,7 +229,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.6 DataFrame神级操作" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -317,7 +241,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.6 DataFrame神级操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.2 文件自动归档.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -326,7 +250,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="sparkt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="3.6 清理房价文本数据" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -338,7 +262,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sparkt.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.6 清理房价文本数据.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -349,11 +273,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.6 清理房价文本数据" />
+        <item itemvalue="Python.2.2 文件自动归档" />
         <item itemvalue="Python.1.4 Python函数" />
         <item itemvalue="Python.1.3 循环结构" />
         <item itemvalue="Python.1.2 判断if" />
-        <item itemvalue="Python.sparkt" />
-        <item itemvalue="Python.3.6 DataFrame神级操作" />
       </list>
     </recent_temporary>
   </component>
@@ -403,46 +327,10 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/course1/2.4 使用Python操作ES.py" />
-    <entry file="file://$PROJECT_DIR$/course1/2.0 批量导出word.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
-          <caret line="64" column="8" lean-forward="true" selection-start-line="64" selection-start-column="8" selection-end-line="64" selection-end-column="8" />
-          <folding>
-            <element signature="e#30#55#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/2.7 抓取GitHub优质Python项目.ipynb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-385" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/2.8 抓取GitHub优质Python项目Plus.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="358">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-          <folding>
-            <element signature="e#30#57#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/PIL/ImageFont.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
           <caret line="144" selection-start-line="144" selection-end-line="144" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/1.6 快速统计一行数据.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="32" column="8" lean-forward="true" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
-          <folding>
-            <element signature="e#33#52#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -505,26 +393,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="59" column="29" selection-start-line="59" selection-start-column="29" selection-end-line="59" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/1.2 豆瓣T250电影.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
-          <folding>
-            <element signature="e#34#49#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/3.0 优质项目词云统计.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="12" column="29" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="29" />
-          <folding>
-            <element signature="e#34#76#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -601,16 +469,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.3 Python操作Redis.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
-          <folding>
-            <marker date="1587878146765" expanded="true" signature="348:422" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/course1/2.6 Python操作Mysql.py" />
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pymongo/mongo_replica_set_client.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -654,9 +512,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.4 Python操作ElasticSearch.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-48">
@@ -684,13 +539,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="61">
-          <caret line="30" column="54" selection-start-line="30" selection-start-column="54" selection-end-line="30" selection-end-column="54" />
-        </state>
-      </provider>
-    </entry>
     <entry file="jar://$USER_HOME$/tool/spark-2.4.3-bin-2.6.0-cdh5.15.1/python/lib/pyspark.zip!/pyspark/conf.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="253">
@@ -699,16 +547,6 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/sparkt.py" />
-    <entry file="file://$PROJECT_DIR$/TTTT.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-          <folding>
-            <element signature="e#33#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.6 DataFrame神级操作.py" />
     <entry file="file://$PROJECT_DIR$/Python入门/TTTTTT.py" />
     <entry file="file://$PROJECT_DIR$/Python入门/1.0 初识Python.py">
@@ -741,8 +579,93 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Python入门/1.4 Python函数.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="256">
-          <caret line="84" column="13" lean-forward="true" selection-start-line="84" selection-start-column="13" selection-end-line="84" selection-end-column="13" />
+        <state relative-caret-position="322">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.3 Python操作Redis.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="29" column="8" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding>
+            <marker date="1587878146765" expanded="true" signature="348:422" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TTTT.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+          <folding>
+            <element signature="e#33#52#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/collections/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4047">
+          <caret line="242" column="6" selection-start-line="242" selection-start-column="6" selection-end-line="242" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/1.2 豆瓣T250电影.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-814">
+          <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+          <folding>
+            <element signature="e#34#49#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/1.6 快速统计一行数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/course1/3.0 优质项目词云统计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-14">
+          <caret line="12" column="29" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="29" />
+          <folding>
+            <element signature="e#34#76#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="965">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/text/house.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="532">
+          <caret line="28" selection-start-line="3" selection-end-line="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/app/data/cal_housing.data">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.6 清理房价文本数据.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="194">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
