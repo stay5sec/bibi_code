@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/3.7 如何快速区间统计.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python入门/1.5 Python模块使用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python入门/a.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.6 清理房价文本数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.6 清理房价文本数据集.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,26 +16,15 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.6 清理房价文本数据集.py">
+        <entry file="file://$PROJECT_DIR$/3.7 如何快速区间统计.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+            <state relative-caret-position="156">
+              <caret line="53" column="8" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="53" selection-end-column="8" />
+              <folding>
+                <element signature="e#34#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/app/data/cal_housing.data">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="1" column="55" selection-start-line="1" selection-start-column="55" selection-end-line="1" selection-end-column="55" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$USER_HOME$/app/data/cal_housing.domain">
-          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -63,9 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Record/多线程/4.0 多线程概念(GIL).py" />
-        <option value="$PROJECT_DIR$/Record/多线程/4.4 线程同步.py" />
-        <option value="$PROJECT_DIR$/Record/多线程/4.5 条件变量线程同步.py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.6 控制进入数量锁semaphore.py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.7 线程池.py" />
         <option value="$PROJECT_DIR$/Record/多线程/4.9 多进程编程.py" />
@@ -114,6 +102,9 @@
         <option value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
         <option value="$PROJECT_DIR$/3.6 清理房价文本数据.py" />
         <option value="$PROJECT_DIR$/3.6 清理房价文本数据集.py" />
+        <option value="$PROJECT_DIR$/Python入门/a.py" />
+        <option value="$PROJECT_DIR$/Python入门/1.5 Python模块使用.py" />
+        <option value="$PROJECT_DIR$/3.7 如何快速区间统计.py" />
       </list>
     </option>
   </component>
@@ -130,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +132,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -151,19 +142,19 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PythonContentEntriesConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/other" />
-      <recent name="$PROJECT_DIR$/course1" />
-      <recent name="$PROJECT_DIR$/contrast" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/tiler/me" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/contrast" />
       <recent name="$PROJECT_DIR$/tiler/me" />
       <recent name="$PROJECT_DIR$/Record/多线程" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/other" />
+      <recent name="$PROJECT_DIR$/course1" />
+      <recent name="$PROJECT_DIR$/contrast" />
+      <recent name="$PROJECT_DIR$/tiler/me" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -178,49 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.6 清理房价文本数据">
-    <configuration name="1.2 判断if" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python入门" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.2 判断if.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="1.3 循环结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python入门" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.3 循环结构.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.3.7 如何快速区间统计">
     <configuration name="1.4 Python函数" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -234,6 +183,27 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.4 Python函数.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.5 Python模块使用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python入门" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.5 Python模块使用.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -284,13 +254,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="3.7 如何快速区间统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 如何快速区间统计.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.3.6 清理房价文本数据" />
+        <item itemvalue="Python.3.7 如何快速区间统计" />
+        <item itemvalue="Python.1.5 Python模块使用" />
         <item itemvalue="Python.2.2 文件自动归档" />
+        <item itemvalue="Python.3.6 清理房价文本数据" />
         <item itemvalue="Python.1.4 Python函数" />
-        <item itemvalue="Python.1.3 循环结构" />
-        <item itemvalue="Python.1.2 判断if" />
       </list>
     </recent_temporary>
   </component>
@@ -340,17 +331,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/course1/2.2 文件自动归档.py" />
-    <entry file="file://$PROJECT_DIR$/3.1 PPT转化为PDF.py" />
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/comtypes/client/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1481">
-          <folding>
-            <element signature="e#252#266#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/stdlib/3/typing.pyi">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="169">
@@ -583,13 +563,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Python入门/1.4 Python函数.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="322">
-          <caret line="55" column="10" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="55" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.3 Python操作Redis.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="117">
@@ -644,27 +617,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="965">
-          <caret line="59" selection-start-line="59" selection-end-line="59" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="12" lean-forward="true" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Downloads/text/house.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="3" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$USER_HOME$/Downloads/text/house.py" />
     <entry file="file://$USER_HOME$/app/data/cal_housing.domain">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -675,10 +628,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="4" column="9" lean-forward="true" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
+          <folding>
+            <element signature="e#31#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python入门/1.4 Python函数.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="55" column="10" lean-forward="true" selection-start-line="54" selection-start-column="3" selection-end-line="55" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python入门/a.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python入门/1.5 Python模块使用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1121">
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/3.6 清理房价文本数据集.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="23" column="21" lean-forward="true" selection-start-line="23" selection-start-column="21" selection-end-line="23" selection-end-column="21" />
+        <state relative-caret-position="19">
+          <caret line="1" column="17" lean-forward="true" selection-start-line="1" selection-end-line="1" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.7 如何快速区间统计.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="53" column="8" lean-forward="true" selection-start-line="47" selection-start-column="1" selection-end-line="53" selection-end-column="8" />
+          <folding>
+            <element signature="e#34#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
