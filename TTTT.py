@@ -4,6 +4,9 @@ import pandas as pd
 from collections import *
 
 # desk path：/Users/super/Desktop/
+x="300|套小程序|链接"
+print(x[:x.find("|链接")].replace("|", ""))
+exit()
 
 dict1 = {}
 
