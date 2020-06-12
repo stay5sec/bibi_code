@@ -51,7 +51,7 @@ for i in range(len(data)):
 # exit()
 
 # 清理被合并的标题
-data = list(map(lambda x: x.replace("链接", "|链接") if "|链接" not in x else x, data))
+    data = list(map(lambda x: x.replace("链接", "|链接") if "|链接" not in x else x, data))
 
 # print(data)
 # exit()
@@ -75,7 +75,12 @@ df.columns = ["name", "url", "password"]
 df.dropna(how="any", inplace=True)
 df["url"] = df["url"].apply(lambda x: x.replace("链接: ", ""))
 
-print(df)
+from prettytable import PrettyTable
+
+table = PrettyTable(list(df.columns))
+table.add_df(df.values.tolist())
+
+print(table)
 
 # 输出到桌面
 df.to_excel("/Users/super/Desktop/福利.xlsx", index=False)
