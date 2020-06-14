@@ -16,16 +16,27 @@ import seaborn as sns
 
 from sklearn.datasets import load_iris
 
-df = pd.DataFrame(load_iris().data)
+iris = load_iris()
 
-# print(df.head())
+# 获取特征集和分类标识
+features = iris.data
+labels = iris.target
+
+# 花萼长度、花萼宽度、花瓣长度、花瓣宽度
+
+df=pd.DataFrame(features)
+df["labels"]=labels
+
+df.columns=["花萼长度","花萼宽度","花瓣长度","花瓣宽度","种类"]
+
+print(df.head())
 # exit()
 
 
 sns.pairplot(df)
 plt.show()
 
-# print(titanic.head())
+
 
 
 
