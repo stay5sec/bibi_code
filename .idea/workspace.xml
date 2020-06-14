@@ -2,8 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Python入门/1.7 Python中的列表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/other/作图/密度图.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/3.8 福利-收好.py" beforeDir="false" afterPath="$PROJECT_DIR$/3.8 福利-收好.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.0 一份假数据.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.0 一份假数据.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.1 调整Excel格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.1 调整Excel格式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.2 豆瓣T250电影.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.2 豆瓣T250电影.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.3 豆瓣T250电影plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.3 豆瓣T250电影plus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.4 豆瓣T250数据分析.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.4 豆瓣T250数据分析.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.5 重组数据格式.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.5 重组数据格式.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.6 快速统计一行数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.6 快速统计一行数据.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.7 未来薪资对比.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.7 未来薪资对比.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.8 画爱心conf.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.8 画爱心conf.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/1.9 乘法计算.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/1.9 乘法计算.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.0 批量导出word.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.0 批量导出word.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.1 提取视频的音频.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.1 提取视频的音频.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.3 美化pycharm打印结果.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.3 美化pycharm打印结果.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.5 数据写入Mysql.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.5 数据写入Mysql.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.7 抓取GitHub优质Python项目.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.7 抓取GitHub优质Python项目.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.8 抓取GitHub优质Python项目Plus.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.8 抓取GitHub优质Python项目Plus.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/2.9 GitHub优质项目数据清洗.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/old/2.9 GitHub优质项目数据清洗.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/3.0 优质项目词云统计.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/3.0 优质项目词云统计.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/3.1 清洗网盘下载资料.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/3.1 清洗网盘下载资料.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course1/3.2 让Python读小说给你听.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/3.2 让Python读小说给你听.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,40 +35,31 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+        <entry file="file://$PROJECT_DIR$/Python入门/1.7 Python中的列表.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-              <folding>
-                <element signature="e#31#44#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="263">
+              <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/3.8 福利-收好.py">
+        <entry file="file://$PROJECT_DIR$/other/作图/密度图.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="236">
-              <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+            <state relative-caret-position="342">
+              <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+              <folding>
+                <element signature="e#33#37#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/course1/2.3 美化pycharm打印结果.py">
+        <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/seaborn/utils.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="83" column="12" lean-forward="true" selection-start-line="83" selection-end-line="83" selection-end-column="12" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/data/bd.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-11538">
-              <caret line="12" column="47" lean-forward="true" selection-start-line="12" selection-start-column="47" selection-end-line="12" selection-end-column="47" />
+            <state relative-caret-position="492">
+              <caret line="442" column="43" lean-forward="true" selection-start-line="442" selection-start-column="43" selection-end-line="442" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -79,9 +91,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.9 乘法计算.py" />
-        <option value="$PROJECT_DIR$/2.0 批量导出word.py" />
-        <option value="$PROJECT_DIR$/2.1 获取视频的音频.py" />
         <option value="$PROJECT_DIR$/2.1 提取视频的音频.py" />
         <option value="$PROJECT_DIR$/2.3 又更新了一个视频.py" />
         <option value="$USER_HOME$/anaconda3/lib/python3.7/site-packages/prettytable.py" />
@@ -130,6 +139,9 @@
         <option value="$PROJECT_DIR$/data/bd.txt" />
         <option value="$PROJECT_DIR$/TTTT.py" />
         <option value="$PROJECT_DIR$/3.8 福利-收好.py" />
+        <option value="$PROJECT_DIR$/Python入门/1.7 Python中的字符串.py" />
+        <option value="$PROJECT_DIR$/Python入门/1.7 Python中的列表.py" />
+        <option value="$PROJECT_DIR$/other/作图/密度图.py" />
       </list>
     </option>
   </component>
@@ -146,7 +158,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -157,17 +168,19 @@
             <path>
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="course1" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
+              <item name="other" type="462c0819:PsiDirectoryNode" />
+              <item name="作图" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -204,8 +217,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.3.8 福利-收好">
-    <configuration name="1.6 字符串和常用数据结构" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.密度图">
+    <configuration name="密度图" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/other/作图" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other/作图/密度图.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="1.7 Python中的列表" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -217,7 +251,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.6 Python中的字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python入门/1.7 Python中的列表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -226,7 +260,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.7 如何快速区间统计" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -238,7 +272,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.7 如何快速区间统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.2 文件自动归档.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -260,27 +294,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.8 福利-收好.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.8 数据插入Mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.8 数据插入Mysql.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -312,11 +325,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.密度图" />
+        <item itemvalue="Python.1.7 Python中的列表" />
+        <item itemvalue="Python.2.2 文件自动归档" />
         <item itemvalue="Python.3.8 福利-收好" />
         <item itemvalue="Python.TTTT" />
-        <item itemvalue="Python.1.6 字符串和常用数据结构" />
-        <item itemvalue="Python.3.8 数据插入Mysql" />
-        <item itemvalue="Python.3.7 如何快速区间统计" />
       </list>
     </recent_temporary>
   </component>
@@ -349,9 +362,10 @@
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.20014094" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Thumbnails" weight="0.3299363" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.54267514" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.36433122" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -366,47 +380,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/course1/3.1 清洗网盘下载资料.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="62" selection-start-line="62" selection-end-line="62" />
-          <folding>
-            <element signature="e#31#44#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/course1/1.1 调整Excel格式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyttsx3/driver.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="66" column="8" selection-start-line="66" selection-start-column="8" selection-end-line="66" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyttsx3/engine.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="301">
-          <caret line="99" column="21" selection-start-line="99" selection-start-column="21" selection-end-line="99" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/pyttsx3/__init__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-          <folding>
-            <element signature="e#0#26#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/3.3 Python文字转语音.py" />
     <entry file="file://$PROJECT_DIR$/data/xiaoshuo.txt">
       <provider selected="true" editor-type-id="text-editor">
@@ -425,7 +398,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/3.2 让Python读小说给你听.py">
+    <entry file="file://$PROJECT_DIR$/old/3.2 让Python读小说给你听.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="352">
           <caret line="24" column="19" lean-forward="true" selection-start-line="22" selection-end-line="24" selection-end-column="19" />
@@ -550,7 +523,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/1.2 豆瓣T250电影.py">
+    <entry file="file://$PROJECT_DIR$/old/1.2 豆瓣T250电影.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-814">
           <caret line="17" column="1" lean-forward="true" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
@@ -560,14 +533,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/1.6 快速统计一行数据.py">
+    <entry file="file://$PROJECT_DIR$/old/1.6 快速统计一行数据.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="57">
           <caret line="3" column="16" selection-start-line="3" selection-start-column="5" selection-end-line="3" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/3.0 优质项目词云统计.py">
+    <entry file="file://$PROJECT_DIR$/old/3.0 优质项目词云统计.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-14">
           <caret line="12" column="29" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="29" />
@@ -626,17 +599,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/2.5 数据写入Mysql.py">
+    <entry file="file://$PROJECT_DIR$/old/2.5 数据写入Mysql.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="380">
           <caret line="20" column="7" selection-end-line="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="662">
-          <caret line="57" column="9" lean-forward="true" selection-start-line="55" selection-end-line="57" selection-end-column="9" />
         </state>
       </provider>
     </entry>
@@ -650,29 +616,12 @@
     <entry file="file://$PROJECT_DIR$/3.8 数据插入Mysql.py" />
     <entry file="file://$USER_HOME$/Desktop/es_data_tags3.py" />
     <entry file="file://$USER_HOME$/Desktop/es_data_tags5.py" />
-    <entry file="file://$PROJECT_DIR$/Python入门/1.6 Python中的字符串.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="114" column="14" lean-forward="true" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/TTTT.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
           <caret line="6" column="4" lean-forward="true" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
           <folding>
             <element signature="e#33#52#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="9" selection-start-line="4" selection-start-column="9" selection-end-line="4" selection-end-column="9" />
-          <folding>
-            <element signature="e#31#44#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -684,7 +633,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/course1/2.3 美化pycharm打印结果.py">
+    <entry file="file://$PROJECT_DIR$/old/2.3 美化pycharm打印结果.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="207">
           <caret line="83" column="12" lean-forward="true" selection-start-line="83" selection-end-line="83" selection-end-column="12" />
@@ -693,8 +642,66 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/3.8 福利-收好.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="236">
-          <caret line="82" column="12" lean-forward="true" selection-start-line="82" selection-start-column="12" selection-end-line="82" selection-end-column="12" />
+        <state relative-caret-position="320">
+          <caret line="70" lean-forward="true" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.2 文件自动归档.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
+          <folding>
+            <element signature="e#31#44#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python入门/1.6 Python中的字符串.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1199">
+          <caret line="114" column="14" lean-forward="true" selection-start-line="114" selection-start-column="14" selection-end-line="114" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Python入门/1.7 Python中的列表.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="42" column="4" selection-start-line="42" selection-start-column="4" selection-end-line="42" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/seaborn/distributions.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-13">
+          <caret line="534" column="15" selection-start-line="534" selection-start-column="15" selection-end-line="534" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/1.5.1 台州疫情分布图.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.6 Python操作Mysql.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="5" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/seaborn/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="492">
+          <caret line="442" column="43" lean-forward="true" selection-start-line="442" selection-start-column="43" selection-end-line="442" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/other/作图/密度图.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+          <folding>
+            <element signature="e#33#37#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
