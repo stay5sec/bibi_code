@@ -5,9 +5,10 @@ from collections import *
 
 # desk path：/Users/super/Desktop/
 
-num = 53
+num = 63
 
 print(num >> 1)
+
 print(num << 1)
 
 num2 = bin(num)
@@ -30,6 +31,6 @@ def dec2bin(num):
             return ''.join(l[::-1])
 
 
-num = dec2bin(53)
+num = dec2bin(63)
 
 print(int(num, 2))

@@ -1,5 +1,6 @@
 # coding:utf-8
 # author:stay5sec
+# mysql本地的密码：root
 
 import pandas as pd
 
