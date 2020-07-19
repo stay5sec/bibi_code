@@ -17,17 +17,19 @@ engine = create_engine('mysql+pymysql://root:root@localhost:3306/test?charset=ut
 # sql查询
 sql = '''select * from data0718;'''
 
+# sql1=""" select uid,max(login_time) max_time from data0718 group by uid; """
+
 df = pd.read_sql_query(sql, engine)
 
 print(df)
 print("\n")
-exit()
+# exit()
 
-# 取出登入最大值
-print(df.groupby("uid")["login_time"].max())
-exit()
+# # 取出登入最大值
+# print(df.groupby("uid")["login_time"].max().reset_index())
+# exit()
 
-# 取出登入最大值以及其他列
+# 取出登入time最大值以及其他列
 df = df.sort_values("login_time", ascending=0)
 
 print(df.groupby("uid").first())
