@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL精通/1.0 查找入职最晚的员工信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL精通/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.1 彩色图片转化灰色.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/4.2 Python图书一览.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,10 +15,13 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py">
+        <entry file="file://$PROJECT_DIR$/4.2 Python图书一览.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="17" column="64" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="64" />
+            <state relative-caret-position="184">
+              <caret line="52" column="23" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="23" />
+              <folding>
+                <element signature="e#34#53#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -40,6 +42,7 @@
       <find>server</find>
       <find>insert</find>
       <find>insert_many</find>
+      <find>python</find>
     </findStrings>
     <replaceStrings>
       <replace>client</replace>
@@ -51,10 +54,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.2 豆瓣T250电影.py" />
-        <option value="$PROJECT_DIR$/2.4 疫情数据获取.py" />
-        <option value="$PROJECT_DIR$/2.4 使用Python操作ES.py" />
-        <option value="$PROJECT_DIR$/2.5 使用Python操作Mysql.py" />
         <option value="$PROJECT_DIR$/2.2 文件自动归档.py" />
         <option value="$PROJECT_DIR$/2.8 抓取GitHub优质Python项目Plus.py" />
         <option value="$PROJECT_DIR$/3.0 优质项目词云统计.py" />
@@ -102,6 +101,10 @@
         <option value="$PROJECT_DIR$/4.0 SQL从精通到了解.py" />
         <option value="$PROJECT_DIR$/SQL精通/1.0 查找入职最晚的员工信息.py" />
         <option value="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" />
+        <option value="$PROJECT_DIR$/4.1 彩色转化灰色.py" />
+        <option value="$PROJECT_DIR$/4.1 彩色图片转化灰色.py" />
+        <option value="$PROJECT_DIR$/4.6 python数据一览.py" />
+        <option value="$PROJECT_DIR$/4.2 Python图书一览.py" />
       </list>
     </option>
   </component>
@@ -118,7 +121,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -126,37 +128,33 @@
               <item name="bili" type="b2602c69:ProjectViewProjectNode" />
               <item name="bili" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="bili" type="b2602c69:ProjectViewProjectNode" />
-              <item name="bili" type="462c0819:PsiDirectoryNode" />
-              <item name="SQL精通" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQL精通" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SQL精通" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/contrast" />
+      <recent name="$PROJECT_DIR$/tiler/me" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/other" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/course1" />
       <recent name="$PROJECT_DIR$/contrast" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SQL精通" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/contrast" />
-      <recent name="$PROJECT_DIR$/tiler/me" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -171,7 +169,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.1.1 查找入职时间排名倒数第三的员工所有信息">
+  <component name="RunManager" selected="Python.4.2 Python图书一览">
     <configuration name="1.0 查找入职最晚的员工信息" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,48 +212,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.6 Python操作Mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.6 Python操作Mysql.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="3.9 Python对比Mysql" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/3.9 Pandas对比SQL.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="4.0 SQL从精通到了解" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -277,13 +233,55 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="4.1 彩色转化灰色" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.1 彩色图片转化灰色.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="4.2 Python图书一览" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.2 Python图书一览.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.4.2 Python图书一览" />
+        <item itemvalue="Python.4.1 彩色转化灰色" />
         <item itemvalue="Python.1.1 查找入职时间排名倒数第三的员工所有信息" />
         <item itemvalue="Python.1.0 查找入职最晚的员工信息" />
         <item itemvalue="Python.4.0 SQL从精通到了解" />
-        <item itemvalue="Python.3.9 Python对比Mysql" />
-        <item itemvalue="Python.2.6 Python操作Mysql" />
       </list>
     </recent_temporary>
   </component>
@@ -311,14 +309,13 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="877" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" sideWeight="0.3659004" visible="true" weight="0.273432" />
       <window_info id="Structure" order="1" sideWeight="0.6340996" side_tool="true" weight="0.24947146" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3299363" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.45732483" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.46242037" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -334,9 +331,6 @@
     </layout>
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://$USER_HOME$/tool/spark-2.4.3-bin-2.6.0-cdh5.15.1/python/lib/pyspark.zip!/pyspark/conf.py" />
-    <entry file="file://$PROJECT_DIR$/sparkt.py" />
-    <entry file="file://$PROJECT_DIR$/3.6 DataFrame神级操作.py" />
     <entry file="file://$PROJECT_DIR$/Python入门/TTTTTT.py" />
     <entry file="file://$PROJECT_DIR$/Python入门/1.0 初识Python.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -599,13 +593,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/3.9 Pandas对比SQL.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="34" column="29" selection-start-line="34" selection-start-column="24" selection-end-line="34" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$USER_HOME$/anaconda3/lib/python3.7/site-packages/sqlalchemy/engine/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2759">
@@ -653,7 +640,36 @@
     <entry file="file://$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="304">
-          <caret line="17" column="64" lean-forward="true" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="64" />
+          <caret line="17" column="64" selection-start-line="17" selection-start-column="7" selection-end-line="17" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.9 Pandas对比SQL.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="39" lean-forward="true" selection-start-line="3" selection-end-line="6" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.4 Python操作ElasticSearch.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-613" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.1 彩色图片转化灰色.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="2" selection-start-column="2" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/4.2 Python图书一览.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="52" column="23" selection-start-line="52" selection-start-column="18" selection-end-line="52" selection-end-column="23" />
+          <folding>
+            <element signature="e#34#53#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
