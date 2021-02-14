@@ -34,3 +34,29 @@ def excel_beautiful(or_name,temp_sheet,tar_name):
     print("\n表格整理完毕！请知悉……")
 
 
+import shutil
+import os
+
+tar_path = "/Users/super/Desktop/books/"
+
+out_path = "/Users/super/Desktop/books2/"
+
+def change_file_suffix(tar_path,out_path,types):
+    # 判断文件是否存在
+    if os.path.exists(out_path):
+        print("请查看已存在文件！")
+        exit()
+    else:
+        os.mkdir(out_path)
+        print("输出文件夹创建完毕……")
+
+    for f in os.listdir(tar_path):
+        f_new = f.split(".")[0] + ".{}".format(types)
+
+        tar_file = os.path.join(tar_path, f)
+        out_file = os.path.join(out_path, f_new)
+
+        shutil.copy(tar_file, out_file)
+
+        print("{} - 文件修改完毕".format(f))
+
