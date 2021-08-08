@@ -7,7 +7,7 @@ import pandas as pd
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
 
-file = "/Users/super/python/bili/data/bd.txt"
+file = "/data/bd.txt"
 
 with open(file) as f:
     data = f.readlines()

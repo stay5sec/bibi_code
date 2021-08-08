@@ -28,7 +28,7 @@ df = pd.read_sql_query(sql, engine)
 #
 # exit()
 
-data_path = "/Users/super/python/bili/data/"
+data_path = "/data/"
 
 for i in list(df["Tables_in_sql1"]):
     sql1 = """ select * from {} """.format(i)
