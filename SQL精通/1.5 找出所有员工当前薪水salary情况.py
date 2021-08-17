@@ -19,7 +19,7 @@ df = pd.read_sql_query(sql, engine)
 print("\n")
 print(df)
 print("\n")
-# exit()
+
 
 sql1 = "select salary from salaries group by salary order by salary desc"
 
