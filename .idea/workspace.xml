@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/other/one_check.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.0 Python连接Mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.3 查找员工姓名以及是否分配部分.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.5 找出所有员工当前薪水salary情况.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL精通/1.0 查找入职最晚的员工信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQL精通/1.2 查找当前薪水详情以及部门编号dept_no.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,19 +21,6 @@
         <option value="Python Script" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>Sized</find>
-      <find>all</find>
-      <find>server</find>
-      <find>insert</find>
-      <find>insert_many</find>
-      <find>python</find>
-    </findStrings>
-    <replaceStrings>
-      <replace>client</replace>
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -44,28 +36,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQL精通" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/SQL精通" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/contrast" />
-      <recent name="$PROJECT_DIR$/tiler/me" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/old" />
       <recent name="$PROJECT_DIR$/other" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/course1" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/SQL精通" />
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/contrast" />
+      <recent name="$PROJECT_DIR$/tiler/me" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.one_check">
-    <configuration name="2.2 文件自动归档" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1.5 找出所有员工当前薪水salary情况">
+    <configuration name="1.1 查找入职时间排名倒数第三的员工所有信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -73,11 +65,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.2 文件自动归档.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -86,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.3 统一修改文件后缀" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.2 查找当前薪水详情以及部门编号dept_no" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -94,11 +86,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.3 统一修改文件后缀.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.2 查找当前薪水详情以及部门编号dept_no.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.4 使用Python装饰器" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.3 查找员工姓名以及是否分配部分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/4.4 使用Python装饰器.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.3 查找员工姓名以及是否分配部分.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -128,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TTTT" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -136,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TTTT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -149,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="one_check" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.5 找出所有员工当前薪水salary情况" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -157,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/other" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/other/one_check.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.5 找出所有员工当前薪水salary情况.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -172,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.one_check" />
-        <item itemvalue="Python.4.4 使用Python装饰器" />
-        <item itemvalue="Python.TTTT" />
-        <item itemvalue="Python.4.3 统一修改文件后缀" />
-        <item itemvalue="Python.2.2 文件自动归档" />
+        <item itemvalue="Python.1.5 找出所有员工当前薪水salary情况" />
+        <item itemvalue="Python.1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数t" />
+        <item itemvalue="Python.1.3 查找员工姓名以及是否分配部分" />
+        <item itemvalue="Python.1.2 查找当前薪水详情以及部门编号dept_no" />
+        <item itemvalue="Python.1.1 查找入职时间排名倒数第三的员工所有信息" />
       </list>
     </recent_temporary>
   </component>
@@ -194,35 +186,22 @@
     </task>
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="349" key="GridCell.Tab.0.bottom" timestamp="1613637447377">
+    <state width="460" height="757" key="GridCell.Tab.0.bottom" timestamp="1629242650570">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="349" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1613637447377" />
-    <state width="1419" height="349" key="GridCell.Tab.0.center" timestamp="1613637447376">
+    <state width="460" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1629242650570" />
+    <state width="460" height="757" key="GridCell.Tab.0.center" timestamp="1629242650569">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="349" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1613637447376" />
-    <state width="1419" height="349" key="GridCell.Tab.0.left" timestamp="1613637447376">
+    <state width="460" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1629242650569" />
+    <state width="460" height="757" key="GridCell.Tab.0.left" timestamp="1629242650569">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="349" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1613637447376" />
-    <state width="1419" height="349" key="GridCell.Tab.0.right" timestamp="1613637447376">
+    <state width="460" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1629242650569" />
+    <state width="460" height="757" key="GridCell.Tab.0.right" timestamp="1629242650570">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="349" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1613637447376" />
-    <state x="229" y="100" key="SettingsEditor" timestamp="1613920614472">
-      <screen x="0" y="23" width="1440" height="877" />
-    </state>
-    <state x="229" y="100" key="SettingsEditor/0.23.1440.877@0.23.1440.877" timestamp="1613920614472" />
+    <state width="460" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1629242650570" />
   </component>
 </project>
