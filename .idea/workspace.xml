@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.6 获得所有非manager的员工编号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.7 获取每个部门中员工薪水最高的相关信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.8 Mysql如何判定奇偶数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/1.9 统计出各个职位的平均薪水.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SQL精通/2.0 三表联合查询.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SQL精通/1.5 找出所有员工当前薪水salary情况.py" beforeDir="false" afterPath="$PROJECT_DIR$/SQL精通/1.5 找出所有员工当前薪水salary情况.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,8 +56,8 @@
       <recent name="$PROJECT_DIR$/tiler/me" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.1.5 找出所有员工当前薪水salary情况">
-    <configuration name="1.1 查找入职时间排名倒数第三的员工所有信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.0 三表联合查询">
+    <configuration name="1.6 获得所有非manager的员工编号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -64,7 +69,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.1 查找入职时间排名倒数第三的员工所有信息.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.6 获得所有非manager的员工编号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +78,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.2 查找当前薪水详情以及部门编号dept_no" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.7 获取每个部门中员工薪水最高的相关信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -85,7 +90,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.2 查找当前薪水详情以及部门编号dept_no.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.7 获取每个部门中员工薪水最高的相关信息.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -94,7 +99,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.3 查找员工姓名以及是否分配部分" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.8 Mysql如何判定奇偶数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -106,7 +111,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.3 查找员工姓名以及是否分配部分.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.8 Mysql如何判定奇偶数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -115,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.9 统计出各个职位的平均薪水" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +132,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.9 统计出各个职位的平均薪水.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.5 找出所有员工当前薪水salary情况" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.0 三表联合查询" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +153,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.5 找出所有员工当前薪水salary情况.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/2.0 三表联合查询.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +164,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.1.5 找出所有员工当前薪水salary情况" />
-        <item itemvalue="Python.1.4 薪水记录超过5次的员工号emp_no以及其对应的记录次数t" />
-        <item itemvalue="Python.1.3 查找员工姓名以及是否分配部分" />
-        <item itemvalue="Python.1.2 查找当前薪水详情以及部门编号dept_no" />
-        <item itemvalue="Python.1.1 查找入职时间排名倒数第三的员工所有信息" />
+        <item itemvalue="Python.2.0 三表联合查询" />
+        <item itemvalue="Python.1.9 统计出各个职位的平均薪水" />
+        <item itemvalue="Python.1.8 Mysql如何判定奇偶数" />
+        <item itemvalue="Python.1.7 获取每个部门中员工薪水最高的相关信息" />
+        <item itemvalue="Python.1.6 获得所有非manager的员工编号" />
       </list>
     </recent_temporary>
   </component>
@@ -182,21 +187,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="460" height="757" key="GridCell.Tab.0.bottom" timestamp="1629243963042">
+    <state width="605" height="757" key="GridCell.Tab.0.bottom" timestamp="1629815448433">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="460" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1629243963042" />
-    <state width="460" height="757" key="GridCell.Tab.0.center" timestamp="1629243963041">
+    <state width="605" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1629815448433" />
+    <state width="605" height="757" key="GridCell.Tab.0.center" timestamp="1629815448432">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="460" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1629243963041" />
-    <state width="460" height="757" key="GridCell.Tab.0.left" timestamp="1629243963041">
+    <state width="605" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1629815448432" />
+    <state width="605" height="757" key="GridCell.Tab.0.left" timestamp="1629815448431">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="460" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1629243963041" />
-    <state width="460" height="757" key="GridCell.Tab.0.right" timestamp="1629243963041">
+    <state width="605" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1629815448431" />
+    <state width="605" height="757" key="GridCell.Tab.0.right" timestamp="1629815448432">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="460" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1629243963041" />
+    <state width="605" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1629815448432" />
   </component>
 </project>
