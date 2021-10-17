@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/SQL精通/2.3 三表联合查询2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/1.2 天天基金.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/画图/1.1 二维直线图以及参数.py" beforeDir="false" afterPath="$PROJECT_DIR$/画图/1.1 二维直线图以及参数.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,28 +32,28 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/SQL精通" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/old" />
-      <recent name="$PROJECT_DIR$/other" />
-      <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$" />
-      <recent name="$PROJECT_DIR$/course1" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/SQL精通" />
       <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/SQL精通" />
       <recent name="$PROJECT_DIR$/data" />
       <recent name="$PROJECT_DIR$/contrast" />
       <recent name="$PROJECT_DIR$/tiler/me" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/画图" />
+      <recent name="$PROJECT_DIR$/old" />
+      <recent name="$PROJECT_DIR$/other" />
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.2.3 三表联合查询2">
-    <configuration name="1.9 统计出各个职位的平均薪水" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.1.2 天天基金">
+    <configuration name="1.1 二维直线图以及参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -60,11 +61,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/画图" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/1.9 统计出各个职位的平均薪水.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/画图/1.1 二维直线图以及参数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -73,7 +74,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="2.0 三表联合查询" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="1.2 天天基金" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -81,11 +82,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/2.0 三表联合查询.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.2 天天基金.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -159,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.1.2 天天基金" />
+        <item itemvalue="Python.1.1 二维直线图以及参数" />
         <item itemvalue="Python.2.3 三表联合查询2" />
         <item itemvalue="Python.2.2 对薪水进行降序并排名" />
         <item itemvalue="Python.2.1 查找在职员工自入职以来的薪水涨幅情况" />
-        <item itemvalue="Python.2.0 三表联合查询" />
-        <item itemvalue="Python.1.9 统计出各个职位的平均薪水" />
       </list>
     </recent_temporary>
   </component>
@@ -182,21 +183,21 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="760" height="757" key="GridCell.Tab.0.bottom" timestamp="1632319033956">
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom" timestamp="1634469526839">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="760" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1632319033956" />
-    <state width="760" height="757" key="GridCell.Tab.0.center" timestamp="1632319033955">
+    <state width="1419" height="307" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1634469526839" />
+    <state width="1419" height="307" key="GridCell.Tab.0.center" timestamp="1634469526838">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="760" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1632319033955" />
-    <state width="760" height="757" key="GridCell.Tab.0.left" timestamp="1632319033954">
+    <state width="1419" height="307" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1634469526838" />
+    <state width="1419" height="307" key="GridCell.Tab.0.left" timestamp="1634469526838">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="760" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1632319033954" />
-    <state width="760" height="757" key="GridCell.Tab.0.right" timestamp="1632319033955">
+    <state width="1419" height="307" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1634469526838" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right" timestamp="1634469526839">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="760" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1632319033955" />
+    <state width="1419" height="307" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1634469526839" />
   </component>
 </project>

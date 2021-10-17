@@ -7,14 +7,17 @@ import numpy as np
 # x轴为0到2派之间的100个数
 x = np.arange(0, 2 * np.pi, np.pi / 100)
 
+# print(x[:10])
+# exit()
+
 y = np.sin(x)
 y2 = np.cos(x)
 
-plt.plot(x, y, x, y2)
+plt.plot(x, y,"bv", x, y2,"r:")
 
 plt.xlabel('x label')
 plt.ylabel('y label')
-plt.title("sin cos")
+plt.title("sin & cos")
 
 plt.show()
 
