@@ -41,6 +41,10 @@ tar_path = "/Users/super/Desktop/books/"
 
 out_path = "/Users/super/Desktop/books2/"
 
+def opath(x):
+    return os.path.join("/Users/super/Desktop",x)
+
+
 def change_file_suffix(tar_path,out_path,types):
     # 判断文件是否存在
     if os.path.exists(out_path):

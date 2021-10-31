@@ -1,69 +1,95 @@
-# coding:utf-8
-# author:stay5sec
+# -*- coding: utf-8 -*-
 
 import requests
-from lxml import etree
+import os
 import pandas as pd
+import re
+import numpy as np
 
+from Func import opath
 
 pd.set_option('expand_frame_repr', False)
 pd.set_option('display.max_rows', 1000)
 
-# 抓取网址
-url = 'http://fundf10.eastmoney.com/FundArchivesDatas.aspx?type=jjcc&code=000689&topline=10&year=&month=&rt=0.4853159141166432'
-url2= "http://fundf10.eastmoney.com/FundArchivesDatas.aspx?type=jjcc&code=000209&topline=10&year=&month=&rt=0.1651012588208438"
+import warnings
 
-# 提取网页
-txt = requests.get(url).text
-
-print(txt)
-exit()
+warnings.filterwarnings("ignore")
 
 
-html = etree.HTML(txt)
+def cal(no, y):
+    # 抓取网址
+    url = 'http://fundf10.eastmoney.com/FundArchivesDatas.aspx?type=jjcc&code={}&topline=10&year=&month=&rt=0.4853159141166432'.format(
+        no)
 
-# //*[@id="tblite_hh"]/tbody/tr[1]/td[1]
-# //*[@id="tblite_hh"]/tbody/tr[2]/td[1]
+    # 提取网页
+    txt2 = requests.get(url).text
 
-id = html.xpath('''//*[@id="tblite_hh"]/tbody/tr/text()''')
+    txt2 = eval(
+        txt2[12:-1].replace("content", "\"content\"").replace("arryear", "\"arryear\"").replace("curyear",
+                                                                                                "\"curyear\""))
 
-print(id)
-exit()
+    a = txt2["content"]
 
-# 年份提取xpath
-'''//*[@id="content"]/div/div[1]/ol/li[1]/div/div[2]/div[2]/p[1]/text()[2]'''
-'''//*[@id="content"]/div/div[1]/ol/li[2]/div/div[2]/div[2]/p[1]/text()[2]'''
+    b = re.findall(r"<td.*?</td>", a)
 
-year = html.xpath('''//li/div/div[2]/div[2]/p[1]/text()[2]''')
+    c = re.sub(r"<.*?>", "|", "".join(b))
 
-# print(year)
+    c = c.replace("||||", "|").replace("||", "|").replace("||", "|").replace("||", "|")
+    c = c.replace("变动详情|股吧|行情|档案|", "").replace("股吧|行情|档案|", "")
+    c = c.replace("（万股）|持仓市值|（万元）|", "").replace("最新价|涨跌幅|相关资讯|占净值|", "").replace("|相关资讯|占净值", "")
+
+    d = [x for x in c.split("|") if len(x) >= 1]
+
+    df = pd.DataFrame(np.array(d).reshape(int(len(d) / 6), 6))
+
+    df["基金编码"] = no
+    df["基金名称"] = y
+
+    return df
+
+
+if os.path.exists(opath("df3.h5")):
+    df3 = pd.read_hdf(opath("df3.h5"))
+    print("\n读取数据中……\n")
+
+else:
+
+    url3 = "https://fund.eastmoney.com/js/fundcode_search.js"
+    txt3 = requests.get(url3).text
+    t3 = txt3[8:-1]
+    df3 = pd.DataFrame(eval(t3))
+    df3.to_hdf(opath("df3.h5"), key="data")
+    print("\n抓取数据中……\n")
+
+df3 = df3[df3[3] == "股票型"]
+
+df3.reset_index(drop=True, inplace=True)
+
+# print(df3.head())
 # exit()
 
-# 评分提取xpath
-'''//*[@id="content"]/div/div[1]/ol/li[1]/div/div[2]/div[2]/div/span[2]'''
-'''//*[@id="content"]/div/div[1]/ol/li[2]/div/div[2]/div[2]/div/span[2]'''
+df = pd.DataFrame()
+for i in range(df3.shape[0]):
+    x = df3.loc[i, 0]
+    y = df3.loc[i, 2]
 
-score = html.xpath('''//li/div/div[2]/div[2]/div/span[2]/text()''')
+    try:
+        _df = cal(x, y)
 
-# print(score)
-# exit()
+    except Exception as e:
+        print("{}编号出现了问题……".format(x))
+        _df = pd.DataFrame()
 
-# 数据放入表格
-df = pd.DataFrame([name, year, score]).T
+    df = df.append(_df, ignore_index=True)
 
-# 列名重置
-df.columns = ["name", "more", "score"]
+    # if i > 2:
+    #     df.to_excel(opath("kan.xlsx"), index=False)
+    #     df.to_hdf(opath("jijin.h5"), key="data")
+    #     break
 
-# 提取具体数据
-df["year"] = df["more"].apply(lambda x: x.split("/")[0].strip())
-df["country"] = df["more"].apply(lambda x: x.split("/")[1].strip())
-df["type"] = df["more"].apply(lambda x: x.split("/")[2].strip())
+df.rename(columns={0: "序号", 1: "股票代码", 2: "股票名称", 3: "占净值", 4: "持股数", 5: "持仓市值"}, inplace=True)
 
-# 删除多余列
-del df["more"]
+print(df.shape[0])
+print(df.head())
 
-# print(df.head())
-# exit()
-
-# 保存数据
-df.to_excel("/Users/super/Desktop/豆瓣T250电影.xlsx", index=False)
+df.to_hdf(opath("jijin.h5"), key="data")
