@@ -2,13 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Pandas精通/1.0 查看数据详情.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pandas精通/9.0 TTTTT.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data/jijin.h5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.1 pd之melt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.2 pd之pivot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.3 pd之pivot_table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.4 pd之cut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.5 pd之qcut.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.6 pd之merge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.7 pd之concat.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.8 pd之factorize.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/1.9 pd之unique.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/2.1 pd之date_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/2.2 pd之period_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/2.3 pd之timedelta_range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/2.4 pd之Series_dt.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Func.py" beforeDir="false" afterPath="$PROJECT_DIR$/Func.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/2 天天基金.py" beforeDir="false" afterPath="$PROJECT_DIR$/old/2 天天基金.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/old/2-天天基金-Copy1.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas精通/9.0 TTTTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas精通/2.0 pd之wide_to_long.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,8 +65,8 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.9.0 TTTTT">
-    <configuration name="1.0 查看数据详情" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.2.4 pd之Series_dt">
+    <configuration name="2.1 pd之date_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,7 +78,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/1.0 查看数据详情.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/2.1 pd之date_range.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -79,70 +87,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="1.1 二维直线图以及参数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/画图" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/画图/1.1 二维直线图以及参数.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2 天天基金" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/old/2 天天基金.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="2.3 三表联合查询2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="bili" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/SQL精通" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SQL精通/2.3 三表联合查询2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="9.0 TTTTT" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="2.2 pd之period_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -154,7 +99,70 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/9.0 TTTTT.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/2.2 pd之period_range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.3 pd之timedelta_range" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas精通" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/2.3 pd之timedelta_range.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.4 pd之Series_dt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas精通" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/2.4 pd之Series_dt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.4 pd之sercies" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="bili" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas精通" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/2.4 pd之sercies.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -165,11 +173,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.9.0 TTTTT" />
-        <item itemvalue="Python.1.0 查看数据详情" />
-        <item itemvalue="Python.1.2 天天基金" />
-        <item itemvalue="Python.1.1 二维直线图以及参数" />
-        <item itemvalue="Python.2.3 三表联合查询2" />
+        <item itemvalue="Python.2.4 pd之Series_dt" />
+        <item itemvalue="Python.2.3 pd之timedelta_range" />
+        <item itemvalue="Python.2.4 pd之sercies" />
+        <item itemvalue="Python.2.1 pd之date_range" />
+        <item itemvalue="Python.2.2 pd之period_range" />
       </list>
     </recent_temporary>
   </component>
@@ -191,21 +199,41 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="612" height="757" key="GridCell.Tab.0.bottom" timestamp="1635603760177">
+    <state width="603" height="757" key="GridCell.Tab.0.bottom" timestamp="1636876075734">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="612" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1635603760177" />
-    <state width="612" height="757" key="GridCell.Tab.0.center" timestamp="1635603760176">
+    <state width="603" height="757" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1636876075734" />
+    <state width="603" height="757" key="GridCell.Tab.0.center" timestamp="1636876075733">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="612" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1635603760176" />
-    <state width="612" height="757" key="GridCell.Tab.0.left" timestamp="1635603760176">
+    <state width="603" height="757" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1636876075733" />
+    <state width="603" height="757" key="GridCell.Tab.0.left" timestamp="1636876075733">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="612" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1635603760176" />
-    <state width="612" height="757" key="GridCell.Tab.0.right" timestamp="1635603760177">
+    <state width="603" height="757" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1636876075733" />
+    <state width="603" height="757" key="GridCell.Tab.0.right" timestamp="1636876075734">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="612" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1635603760177" />
+    <state width="603" height="757" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1636876075734" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom" timestamp="1636875902412">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1636875902412" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center" timestamp="1636875902411">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1636875902411" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left" timestamp="1636875902411">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1636875902411" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right" timestamp="1636875902412">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1636875902412" />
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1636376781486">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="385" y="213" width="670" height="676" key="search.everywhere.popup/0.23.1440.877@0.23.1440.877" timestamp="1636376781486" />
   </component>
 </project>
