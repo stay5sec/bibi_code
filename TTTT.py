@@ -4,32 +4,28 @@ import pandas as pd
 from collections import *
 
 # desk path：/Users/super/Desktop/
+from Func import opath
 
-num = 53
-
-print(num >> 1)
-print(num << 1)
-
-num2 = bin(num)
-
-num20 = num2 + "0"
-
-print(int(num20, 2))
-
-exit()
+# df = pd.read_excel(opath("1-202105工资.xlsx"), skiprows=1)
+#
+# print(df.head())
 
 
-def dec2bin(num):
-    l = []
-    if num < 0:
-        return '-' + dec2bin(abs(num))
-    while True:
-        num, remainder = divmod(num, 2)
-        l.append(str(remainder))
-        if num == 0:
-            return ''.join(l[::-1])
+# df=df[(df["姓名"].isnull())&(df["应发工资"].notnull())][["序号","应发工资"]]
+#
+# df=df.head(df.shape[0]-1)
+#
+# df["应发工资"]=df["应发工资"].apply(lambda x:round(x,2))
+#
+# df["flag"]="202105工资"
+#
+#
+# print(df)
 
+df = pd.read_excel(opath("1-202105工资.xlsx"), skiprows=1)
 
-num = dec2bin(53)
+df=df[(df["姓名"].notnull())&(df["应发工资"].notnull())][["姓名","应发工资","实发工资"]]
 
-print(int(num, 2))
+df["应发工资"]=df["应发工资"].apply(lambda x:round(x,2))
+
+print(df)
