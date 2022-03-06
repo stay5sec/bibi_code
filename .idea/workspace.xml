@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d727ff06-a0ab-431e-8a8e-941373e645fc" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/工资提取.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/细节提取.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Pandas精通/3.6 pd之groupby.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TTTT.py" beforeDir="false" afterPath="$PROJECT_DIR$/TTTT.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,7 +32,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Pandas精通" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -47,14 +45,14 @@
       <recent name="$PROJECT_DIR$/other" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Pandas精通" />
+      <recent name="$PROJECT_DIR$/old" />
       <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data" />
-      <recent name="$PROJECT_DIR$/Pandas精通" />
       <recent name="$PROJECT_DIR$/SQL精通" />
-      <recent name="$PROJECT_DIR$/contrast" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.细节提取">
+  <component name="RunManager" selected="Python.3.6 pd之groupby">
     <configuration name="工资提取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -118,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="3.5 pd之实战" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="3.6 pd之groupby" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="bili" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +128,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/3.5 pd之实战.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas精通/3.6 pd之groupby.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +160,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.3.6 pd之groupby" />
         <item itemvalue="Python.细节提取" />
         <item itemvalue="Python.工资提取" />
         <item itemvalue="Python.TTTT" />
         <item itemvalue="Python.2 天天基金" />
-        <item itemvalue="Python.3.5 pd之实战" />
       </list>
     </recent_temporary>
   </component>
@@ -188,38 +186,38 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1419" height="282" key="GridCell.Tab.0.bottom" timestamp="1639215291894">
+    <state width="1419" height="254" key="GridCell.Tab.0.bottom" timestamp="1641567533286">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1639215291894" />
-    <state width="1419" height="282" key="GridCell.Tab.0.center" timestamp="1639215291894">
+    <state width="1419" height="254" key="GridCell.Tab.0.bottom/0.23.1440.877@0.23.1440.877" timestamp="1641567533286" />
+    <state width="1419" height="254" key="GridCell.Tab.0.center" timestamp="1641567533286">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1639215291894" />
-    <state width="1419" height="282" key="GridCell.Tab.0.left" timestamp="1639215291893">
+    <state width="1419" height="254" key="GridCell.Tab.0.center/0.23.1440.877@0.23.1440.877" timestamp="1641567533286" />
+    <state width="1419" height="254" key="GridCell.Tab.0.left" timestamp="1641567533285">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1639215291893" />
-    <state width="1419" height="282" key="GridCell.Tab.0.right" timestamp="1639215291894">
+    <state width="1419" height="254" key="GridCell.Tab.0.left/0.23.1440.877@0.23.1440.877" timestamp="1641567533285" />
+    <state width="1419" height="254" key="GridCell.Tab.0.right" timestamp="1641567533286">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="282" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1639215291894" />
-    <state width="1419" height="286" key="GridCell.Tab.1.bottom" timestamp="1637766848284">
+    <state width="1419" height="254" key="GridCell.Tab.0.right/0.23.1440.877@0.23.1440.877" timestamp="1641567533286" />
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom" timestamp="1641567533184">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1637766848284" />
-    <state width="1419" height="286" key="GridCell.Tab.1.center" timestamp="1637766848284">
+    <state width="1419" height="286" key="GridCell.Tab.1.bottom/0.23.1440.877@0.23.1440.877" timestamp="1641567533184" />
+    <state width="1419" height="286" key="GridCell.Tab.1.center" timestamp="1641567533183">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1637766848284" />
-    <state width="1419" height="286" key="GridCell.Tab.1.left" timestamp="1637766848283">
+    <state width="1419" height="286" key="GridCell.Tab.1.center/0.23.1440.877@0.23.1440.877" timestamp="1641567533183" />
+    <state width="1419" height="286" key="GridCell.Tab.1.left" timestamp="1641567533183">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1637766848283" />
-    <state width="1419" height="286" key="GridCell.Tab.1.right" timestamp="1637766848284">
+    <state width="1419" height="286" key="GridCell.Tab.1.left/0.23.1440.877@0.23.1440.877" timestamp="1641567533183" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right" timestamp="1641567533184">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
-    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1637766848284" />
+    <state width="1419" height="286" key="GridCell.Tab.1.right/0.23.1440.877@0.23.1440.877" timestamp="1641567533184" />
     <state x="385" y="213" width="670" height="676" key="search.everywhere.popup" timestamp="1636376781486">
       <screen x="0" y="23" width="1440" height="877" />
     </state>
